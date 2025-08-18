@@ -1,4 +1,4 @@
-#🎨 Generador de Paleta de Colores
+# Generador-de-Paleta-de-Colores
 
 Este es un proyecto sencillo de un generador de colores aleatorios, desarrollado con HTML, CSS y JavaScript, pensado como práctica de funciones en JS, manipulación del DOM y estilos responsivos.
 
